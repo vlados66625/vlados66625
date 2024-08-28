@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vlados66625.vlados66625&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
@@ -26,12 +20,12 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Технологии инструменты с которыми я работал:</h3>
 
 ###
 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<div align="left">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px 10px 10px 0" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
@@ -44,16 +38,15 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
-###
 
 ###
 
-<h3 align="left">🎓   Пройденные этапы моего обучения :</h3>
+<h3 align="left">🎓   Этапы моего обучения :</h3>
 
 <table>
   <thead>
     <tr>
-      <th>"Этап обучения"</th>
+      <th>Этап обучения</th>
       <th>Дата</th>
     </tr>
   </thead>
@@ -77,11 +70,19 @@
     <tr>
       <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/javascript" target="_blank">
                     JavaScript. Профессиональная разработка веб-интерфейсов
-                  </a></td>
+                  </a><button>Кекстаграм</button><div id="popup" style="display:none; position: absolute; background-color: white; border: 1px solid black; padding: 10px;">
+          <button onclick="togglePopup()" style="position: absolute; top: 5px; right: 5px;">&#10006;</button>
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li><a href="https://vlados66625.github.io/sites/Kekstagram/">Сайт</a></li>
+            <li><a href="https://github.com/vlados66625/Kekstagram">Код</a></li>
+            <li><a href="#">ТЗ</a></li>
+            <li><a href="#">Макет</a></li>
+          </ul>
+        </div></td>
       <td>14.02.23 - 17.04.23</td>
     </tr>
     <tr>
-      <td>Подготовка вёрстки для CMS</td>
+      <td>Подготовка вёрстки для CMS (WordPress, 1С-Битрикс)</td>
       <td>24.04.23 - 05.06.23</td>
     </tr>
     <tr>
@@ -99,11 +100,18 @@
       <td>20.08.24 - в процессе</td>
     </tr>
     <tr>
-      <td>cell1_9</td>
-      <td>cell2_9</td>
+      <td>TypeScript, Redux</td>
+      <td>в планах</td>
     </tr>
   </tbody>
 </table>
+
+<script>
+  function togglePopup() {
+    var popup = document.getElementById("popup");
+    popup.style.display = (popup.style.display === "none") ? "block" : "none";
+  }
+</script>
 
 
 ###
@@ -119,8 +127,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlados66625&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=vlados66625&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vlados66625&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vlados66625.vlados66625&"  />
 </div>
 
 ###
