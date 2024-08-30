@@ -56,24 +56,30 @@
       <td>01.08.22 - 19.09.22</td>
     </tr>
     <tr>
-      <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/htmlcss" target="_blank">
-      HTML и&nbsp;CSS. Профессиональная вёрстка сайтов
-    </a> (Sedona)</td>
+      <td>
+        <a href="https://htmlacademy.ru/intensive/htmlcss" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          HTML и&nbsp;CSS. Профессиональная вёрстка сайтов
+        </a> Sedona
+      </td>
       <td>19.09.22 - 21.11.22</td>
     </tr>
     <tr>
-      <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/adaptive" target="_blank">
-      HTML и&nbsp;CSS. Адаптивная вёрстка и&nbsp;автоматизация 
-      </a>(Cat-energy)</td>
+      <td>
+        <a href="https://htmlacademy.ru/intensive/adaptive" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          HTML и&nbsp;CSS. Адаптивная вёрстка и&nbsp;автоматизация 
+        </a> Cat-energy
+      </td>
       <td>21.11.22 - 30.01.23</td>
     </tr>
     <tr>
-      <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/javascript" target="_blank">
-             JavaScript. Профессиональная разработка веб-интерфейсов
-          </a>(<a class="main-menu__link" href="https://vlados66625.github.io/my-projects/" target="_blank">
-             Kekstagram
-          </a>)
-        </div></td>
+      <td>
+        <a href="https://htmlacademy.ru/intensive/javascript" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          JavaScript. Профессиональная разработка веб-интерфейсов
+        </a> 
+        <a href="https://vlados66625.github.io/my-projects/" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          Kekstagram
+        </a>
+      </td>
       <td>14.02.23 - 17.04.23</td>
     </tr>
     <tr>
@@ -81,23 +87,32 @@
       <td>24.04.23 - 05.06.23</td>
     </tr>
     <tr>
-      <td>Практика (<a class="main-menu__link" href="https://vlados66625.github.io/my-projects/" target="_blank">
-             Fitness
-          </a>, </a><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/" target="_blank">
-             Journeys
-          </a>)</td>
+      <td>
+        Практика 
+        <a href="https://vlados66625.github.io/my-projects/" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          Fitness
+        </a>, 
+        <a href="https://vlados66625.github.io/my-projects/" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          Journeys
+        </a>
+      </td>
       <td>12.06.23 - 25.09.23</td>
     </tr>
     <tr>
-      <td>Вёрстка React-компонентов (интерактивность, роутинг, сборка webpack, Storybook) (</a><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/" target="_blank">
-             Фермерские продукты
-          </a>)</td>
+      <td>
+        Вёрстка React-компонентов (интерактивность, роутинг, сборка webpack, Storybook) 
+        <a href="https://vlados66625.github.io/my-projects/" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          Фермерские продукты
+        </a>
+      </td>
       <td>20.05.24 - 20.08.24</td>
     </tr>
     <tr>
-      <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/javascript" target="_blank">
-                    JavaScript. Профессиональная разработка веб-интерфейсов (повторяю, keksobooking)
-                  </a></td>
+      <td>
+        <a href="https://htmlacademy.ru/intensive/javascript" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: 500; border-bottom: 2px solid transparent; transition: color 0.3s ease, border-bottom 0.3s ease;">
+          JavaScript. Профессиональная разработка веб-интерфейсов
+        </a> (повторяю на более сложном проекте, Keksobooking)
+      </td>
       <td>20.08.24 - в процессе</td>
     </tr>
     <tr>
@@ -106,6 +121,7 @@
     </tr>
   </tbody>
 </table>
+
 
 ###
 
@@ -131,7 +147,3 @@
 </div>
 
 ###
-
-<style>.main-menu__link {
-  color: red;
-}</style>
