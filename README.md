@@ -128,9 +128,9 @@
 ###
 
 <div align="center">
-    <img src="https://vlados66625.github.io/my-projects/certificates/website-layout.jpg" alt="Cертификат. HTML и CSS. Профессиональная вёрстка сайтов"/>
-    <img src="https://vlados66625.github.io/my-projects/certificates/adaptive-layout.jpg" alt="Cертификат. HTML и CSS. Адаптивная вёрстка и автоматизация"/>
-    <img src="https://vlados66625.github.io/my-projects/certificates/professional-JS.jpg" alt="Cертификат. JavaScript. Профессиональная разработка веб-интерфейсов"/>
+    <img src="https://vlados66625.github.io/my-projects/certificates/website-layout.jpg" width="320" alt="Cертификат. HTML и CSS. Профессиональная вёрстка сайтов"/>
+    <img src="https://vlados66625.github.io/my-projects/certificates/adaptive-layout.jpg" width="320" alt="Cертификат. HTML и CSS. Адаптивная вёрстка и автоматизация"/>
+    <img src="https://vlados66625.github.io/my-projects/certificates/professional-JS.jpg" width="320" alt="Cертификат. JavaScript. Профессиональная разработка веб-интерфейсов"/>
 </div>
 
 ###
