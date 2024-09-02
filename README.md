@@ -97,12 +97,12 @@
         <tr>
             <td>Подготовка вёрстки для CMS (WordPress, 1С-Битрикс)</td>
             <td>—</td>
-            <td>24.04.23 - 05.06.23</td>
+            <td>24.04.23 - 26.05.23</td>
         </tr>
         <tr>
             <td>Практика</td>
             <td>Drink2Go, <a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Fitness</a>, <a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Journeys</a></td>
-            <td>12.06.23 - 25.09.23</td>
+            <td>29.05.23 - 25.09.23</td>
         </tr>
         <tr>
             <td>Вёрстка React-компонентов (интерактивность, роутинг, сборка webpack, Storybook)</td>
