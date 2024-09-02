@@ -109,18 +109,6 @@
             <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Фермерские продукты</a></td>
             <td>20.05.24 - 20.08.24</td>
         </tr>
-        <tr>
-            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/javascript">
-                    JavaScript. Профессиональная разработка веб-интерфейсов
-                </a> (повторяю на более сложном проекте)</td>
-            <td>Keksobooking</td>
-            <td>20.08.24 - в процессе</td>
-        </tr>
-        <tr>
-            <td>TypeScript, Redux</td>
-            <td>—</td>
-            <td>в планах</td>
-        </tr>
     </tbody>
 </table>
 
