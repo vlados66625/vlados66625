@@ -39,10 +39,18 @@
     <a href="https://www.javascript.com/"><img
             src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"
             height="50" /></a>
-    <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
-            alt="Node.js" height="50" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
+            alt="TypeScript" height="50" /></a>
     <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
             alt="React" height="50" /></a>
+    <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" 
+            alt="Redux" height="50" /></a>
+    <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
+            alt="Styled Components" height="50" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" 
+            alt="Bash" height="50" /></a>
+    <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+            alt="Node.js" height="50" /></a>
     <a href="https://gulpjs.com/"><img src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js"
             height="50" /></a>
     <a href="https://webpack.js.org/"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
@@ -53,6 +61,7 @@
             height="50" /></a>
     <a href="https://wordpress.com/"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
             alt="WordPress" height="50" /></a>
+    
 </div>
 
 ###
