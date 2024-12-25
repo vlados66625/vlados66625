@@ -57,6 +57,8 @@
             alt="Webpack" height="50" /></a>
     <a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
             height="50" /></a>
+    <a href="https://babeljs.io/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" 
+            alt="babel" height="50"/></a>
     <a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"
             height="50" /></a>
     <a href="https://wordpress.com/"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
