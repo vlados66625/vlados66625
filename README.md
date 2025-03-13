@@ -47,6 +47,7 @@
             alt="Redux" height="50" /></a>
     <a href="https://vite.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" 
             alt="Redux" height="50" /></a>
+    <br>
     <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
             alt="Styled Components" height="50" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" 
