@@ -26,9 +26,12 @@
 ###
 
 <div align="left">
-  <a href="https://en.wikipedia.org/wiki/HTML5"><img
+  <a href="https://en.wikipedia.org/wiki/HTML5">
+      <img
             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
-            height="50" /></a>
+            height="50" 
+        />
+  </a>
     <a href="https://www.w3schools.com/css/"><img
             src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
     <a href="https://sass-lang.com/"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
