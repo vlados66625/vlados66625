@@ -38,18 +38,18 @@
     <a href="https://www.javascript.com/"><img
             src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"
             height="50" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
+    <a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
             alt="TypeScript" height="50" /></a>
     <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
             alt="React" height="50" /></a>
-    <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" 
+    <a href="https://redux.js.org/"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" 
             alt="Redux" height="50" /></a>
-    <a href="https://vite.dev/" target="_blank"><img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" 
+    <a href="https://vite.dev/"><img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" 
             alt="vite" height="50" width="50"/></a>
     <br>
-    <a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
+    <a href="https://styled-components.com/"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
             alt="Styled Components" height="50" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" 
+    <a href="https://www.gnu.org/software/bash/"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" 
             alt="Bash" height="50" /></a>
     <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
             alt="Node.js" height="50" /></a>
@@ -59,7 +59,7 @@
             alt="Webpack" height="50" /></a>
     <a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
             height="50" /></a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" 
+    <a href="https://babeljs.io/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" 
             alt="babel" height="50"/></a>
     <a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"
             height="50" /></a>
