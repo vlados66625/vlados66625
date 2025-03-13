@@ -1,5 +1,4 @@
 ###
-<style> p { color: blue; font-size: 20px; } </style> 
 <h1 align="center">Привет👋 Меня зовут Владислав!</h1>
 
 ###
@@ -32,13 +31,15 @@
             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" 
             alt="HTML5" 
             height="50"   
+            style="margin: 10px"
         />
     </a>
     <a href="https://www.w3schools.com/css/">
-        <img style="margin: 10px"
+        <img 
             src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" 
             alt="CSS3" 
             height="50"      
+            style="margin: 10px"
         />
     </a>
     <a href="https://sass-lang.com/">
@@ -54,7 +55,7 @@
             src="https://profilinator.rishav.dev/skills-assets/bem.svg" 
             alt="BEM"
             height="50" 
-            width:"50"
+            width="50"
             style="margin-right: 10px"
         />
     </a>
