@@ -56,6 +56,7 @@
             src="https://profilinator.rishav.dev/skills-assets/bem.svg" 
             alt="BEM"
             height="50" 
+            width:"50"
             style="margin: 10px"
         />
     </a>
