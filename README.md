@@ -91,7 +91,7 @@
             width="50"
         />
     </a>
-    <br>
+
     <a href="https://styled-components.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
