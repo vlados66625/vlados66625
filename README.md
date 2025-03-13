@@ -32,7 +32,7 @@
             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" 
             alt="HTML5" 
             height="50" 
-            style="margin-right: 10px"        
+            style="margin-right: 10px; text-decoration: none;"        
         />
     </a>
     <a href="https://www.w3schools.com/css/">
@@ -40,7 +40,7 @@
             src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" 
             alt="CSS3" 
             height="50" 
-            style="margin-right: 10px"      
+            style="margin-right: 10px; text-decoration: none;"      
         />
     </a>
     <a href="https://sass-lang.com/">
