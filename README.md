@@ -146,6 +146,7 @@
 </table>
 
 ###
+<h3 align="left">📜 Сертификаты :</h3>
 
 <div align="center">
     <img src="https://vlados66625.github.io/my-projects/certificates/website-layout.jpg" width="250" alt="Cертификат. HTML и CSS. Профессиональная вёрстка сайтов"/>
