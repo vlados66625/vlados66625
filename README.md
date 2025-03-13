@@ -135,6 +135,13 @@
             <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Big-trip</a></td>
             <td>21.10.24 - 24.12.24</td>
         </tr>
+        <tr>
+            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/react">
+                    JavaScript. Разработка сложных клиентских приложений
+                </a></td>
+            <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Six cities</a></td>
+            <td>06.01.24 - 10.03.24</td>
+        </tr>
     </tbody>
 </table>
 
