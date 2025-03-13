@@ -34,21 +34,22 @@
     <a href="https://sass-lang.com/"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
             alt="Sass" height="50" /></a>
     <a href="http://getbem.com/"><img src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM"
-            height="50" /></a>
+            height="50" width="50"/></a>
     <a href="https://www.javascript.com/"><img
             src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"
             height="50" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
             alt="TypeScript" height="50" /></a>
     <a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
             alt="React" height="50" /></a>
-    <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" 
+    <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" 
             alt="Redux" height="50" /></a>
-    <a href="https://vite.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" 
-            alt="Redux" height="50" /></a>
-    <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
+    <br>
+    <a href="https://vite.dev/" target="_blank"><img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" 
+            alt="vite" height="50" width="50"/></a>
+    <a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
             alt="Styled Components" height="50" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" 
             alt="Bash" height="50" /></a>
     <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
             alt="Node.js" height="50" /></a>
