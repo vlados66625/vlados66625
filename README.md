@@ -146,6 +146,7 @@
     <img src="https://vlados66625.github.io/my-projects/certificates/professional-JS.jpg" width="250" alt="Cертификат. JavaScript. Профессиональная разработка веб-интерфейсов"/>
     <img src="https://vlados66625.github.io/my-projects/certificates/layout-of-react-components.jpg" width="250" alt="Cертификат. Вёрстка React-компонентов"/>
     <img src="https://vlados66625.github.io/my-projects/certificates/architecture-of-client-applications.jpg" width="250" alt="Cертификат. JavaScript. Архитектура клиентских приложений"/>
+    <img src="https://vlados66625.github.io/my-projects/certificates/react-redux.png" width="250" alt="Cертификат. JavaScript. Разработка сложных клиентских приложений"/>
 </div>
 
 ###
