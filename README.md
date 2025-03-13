@@ -28,12 +28,10 @@
 
 <div align="left">
     <a href="https://en.wikipedia.org/wiki/HTML5">
-        <img 
-            src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" 
+        <img             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" 
             alt="HTML5" 
             height="50" 
-            style="margin: 10px"
-        />
+            style="margin: 10px"        />
     </a>
     <a href="https://www.w3schools.com/css/">
         <img style="margin: 10px"
