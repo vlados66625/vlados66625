@@ -26,8 +26,7 @@
 ###
 
 <div align="left">
-  <a href="https://en.wikipedia.org/wiki/HTML5">
-      <img
+  <a href="https://en.wikipedia.org/wiki/HTML5">      <img
             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
             height="50" 
         />
