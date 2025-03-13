@@ -21,12 +21,12 @@
 
 ###
 
-<h3 align="left">🛠 Технологии инструменты с которыми я работал:</h3>
+<h3 align="left">🛠 Технологии и инструменты с которыми я работал:</h3>
 
 ###
 
 <div align="left">
-    <a href="https://en.wikipedia.org/wiki/HTML5">
+    <a href="https://en.wikipedia.org/wiki/HTML5" style="text-decoration: none">
         <img             
             src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" 
             alt="HTML5" 
@@ -34,7 +34,7 @@
             style="margin: 10px"
         />
     </a>
-    <a href="https://www.w3schools.com/css/">
+    <a href="https://www.w3schools.com/css/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" 
             alt="CSS3" 
@@ -42,7 +42,7 @@
             style="margin: 10px"
         />
     </a>
-    <a href="https://sass-lang.com/">
+    <a href="https://sass-lang.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
             alt="Sass" 
@@ -50,7 +50,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="http://getbem.com/">
+    <a href="http://getbem.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/bem.svg" 
             alt="BEM"
@@ -59,7 +59,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://www.javascript.com/">
+    <a href="https://www.javascript.com/" style="text-decoration: none">
         <img
             src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" 
             alt="JavaScript"
@@ -67,7 +67,7 @@
             style="margin-right: 10px"
          />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
+    <a href="https://www.typescriptlang.org/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
             alt="TypeScript" 
@@ -75,7 +75,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://reactjs.org/">
+    <a href="https://reactjs.org/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
             alt="React" 
@@ -83,7 +83,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://redux.js.org/" target="_blank">
+    <a href="https://redux.js.org/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" 
             alt="Redux" 
@@ -91,16 +91,17 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://vite.dev/" target="_blank">
+    <a href="https://vite.dev/" target="_blank" style="text-decoration: none">
         <img 
             src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" 
             alt="Redux" 
             height="50" 
+            width="50"
             style="margin-right: 10px"
         />
     </a>
     <br>
-    <a href="https://styled-components.com/" target="_blank">
+    <a href="https://styled-components.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/styled-components.png" 
             alt="Styled Components" 
@@ -108,7 +109,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <a href="https://www.gnu.org/software/bash/" style="text-decoration: none">
         <img style="margin: 10px" 
             src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" 
             alt="Bash" 
@@ -116,7 +117,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://nodejs.org/">
+    <a href="https://nodejs.org/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
             alt="Node.js" 
@@ -124,7 +125,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://gulpjs.com/">
+    <a href="https://gulpjs.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" 
             alt="gulp.js"
@@ -132,7 +133,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://webpack.js.org/">
+    <a href="https://webpack.js.org/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
             alt="Webpack" 
@@ -140,7 +141,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://github.com/">
+    <a href="https://github.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" 
             alt="Git"
@@ -148,7 +149,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="text-decoration: none">
         <img 
             src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" 
             alt="babel" 
@@ -156,7 +157,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://www.figma.com/">
+    <a href="https://www.figma.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" 
             alt="Figma"
@@ -164,7 +165,7 @@
             style="margin-right: 10px"
         />
     </a>
-    <a href="https://wordpress.com/">
+    <a href="https://wordpress.com/" style="text-decoration: none">
         <img 
             src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
             alt="WordPress" 
