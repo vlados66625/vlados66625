@@ -86,24 +86,24 @@
             <td>01.08.22 - 19.09.22</td>
         </tr>
         <tr>
-            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/htmlcss">
+            <td><a href="https://htmlacademy.ru/intensive/htmlcss">
                     HTML и&nbsp;CSS. Профессиональная вёрстка сайтов
                 </a></td>
             <td>Sedona</td>
             <td>19.09.22 - 21.11.22</td>
         </tr>
         <tr>
-            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/adaptive">
+            <td><a href="https://htmlacademy.ru/intensive/adaptive">
                     HTML и&nbsp;CSS. Адаптивная вёрстка и&nbsp;автоматизация
                 </a></td>
             <td>Cat-energy</td>
             <td>21.11.22 - 30.01.23</td>
         </tr>
         <tr>
-            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/javascript">
+            <td><a href="https://htmlacademy.ru/intensive/javascript">
                     JavaScript. Профессиональная разработка веб-интерфейсов
                 </a></td>
-            <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Kekstagram</a></td>
+            <td><a href="https://vlados66625.github.io/my-projects/">Kekstagram</a></td>
             <td>14.02.23 - 17.04.23</td>
         </tr>
         <tr>
@@ -113,33 +113,33 @@
         </tr>
         <tr>
             <td>Практика</td>
-            <td>Drink2Go, <a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Fitness</a>, <a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Journeys</a></td>
+            <td>Drink2Go, <a href="https://vlados66625.github.io/my-projects/">Fitness</a>, <a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Journeys</a></td>
             <td>29.05.23 - 25.09.23</td>
         </tr>
         <tr>
             <td>Вёрстка React-компонентов (интерактивность, роутинг, сборка webpack, Storybook)</td>
-            <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Фермерские продукты</a></td>
+            <td><a href="https://vlados66625.github.io/my-projects/">Фермерские продукты</a></td>
             <td>20.05.24 - 20.08.24</td>
         </tr>
         <tr>
-            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/javascript">
+            <td><a href="https://htmlacademy.ru/intensive/javascript">
                     JavaScript. Профессиональная разработка веб-интерфейсов
                 </a></td>
-            <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Keksobooking</a></td>
+            <td>Keksobooking</td>
             <td>26.08.24 - 18.10.24</td>
         </tr>
         <tr>
-            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/ecmascript">
+            <td><a href="https://htmlacademy.ru/intensive/ecmascript">
                     JavaScript. Архитектура клиентских приложений
                 </a></td>
-            <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Big-trip</a></td>
+            <td><a href="https://vlados66625.github.io/my-projects/">Big-trip</a></td>
             <td>21.10.24 - 24.12.24</td>
         </tr>
         <tr>
-            <td><a class="main-menu__link" href="https://htmlacademy.ru/intensive/react">
+            <td><a href="https://htmlacademy.ru/intensive/react">
                     JavaScript. Разработка сложных клиентских приложений
                 </a></td>
-            <td><a class="main-menu__link" href="https://vlados66625.github.io/my-projects/">Six cities</a></td>
+            <td><a href="https://vlados66625.github.io/my-projects/">Six cities</a></td>
             <td>06.01.24 - 10.03.24</td>
         </tr>
     </tbody>
